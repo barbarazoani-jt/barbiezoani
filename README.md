@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vitsight](vitsight.com)
 
-- 🌱 I’m currently learning **React and more about SQL**
+- 🌱 I’m currently learning **React** and more about **SQL**
 
 - 📫 How to reach me **bzoani@itba.edu.ar**
 
